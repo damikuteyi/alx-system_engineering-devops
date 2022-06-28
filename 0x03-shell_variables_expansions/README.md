@@ -3,3 +3,4 @@ README.md
 
 2 - adds a path to current directory 
  3 - counts the number of directories in path
+\n4 - prints the global variables
